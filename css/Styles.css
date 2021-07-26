@@ -144,7 +144,7 @@ h1, h2, h3{
 
 /* Pre-Main */
 .hero{
-    background-image: url(../Diseño/hero.jpg);
+    background-image: url(../img/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 41rem;
